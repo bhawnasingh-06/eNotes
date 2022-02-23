@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/eNotes/static/css/main.da1b63f4.css",
+    "main.js": "/eNotes/static/js/main.66234093.js",
+    "index.html": "/eNotes/index.html",
+    "main.da1b63f4.css.map": "/eNotes/static/css/main.da1b63f4.css.map",
+    "main.66234093.js.map": "/eNotes/static/js/main.66234093.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da1b63f4.css",
+    "static/js/main.66234093.js"
+  ]
+}
